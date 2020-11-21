@@ -1,0 +1,20 @@
+{
+  // See https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions
+  // to learn about workspace recommendations.
+  // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+  // List of extensions which should be recommended for users of this workspace.
+  "recommendations": [
+    // markdown lint
+    "davidanson.vscode-markdownlint",
+    // eslint
+    "dbaeumer.vscode-eslint",
+    // prettier
+    "esbenp.prettier-vscode",
+    // Syntax highlighting to styled-components
+    "jpoissonnier.vscode-styled-components"
+  ],
+
+  // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+  "unwantedRecommendations": []
+}

@@ -1,0 +1,14 @@
+{
+  // Set vscode formatter to Prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Format on save
+  "editor.formatOnSave": true,
+
+  "editor.codeActionsOnSave": {
+    // Enable eslint auto-fix
+    "source.fixAll.eslint": true,
+    // Enable markdownlint auto-fix
+    "source.fixAll.markdownlint": true
+  }
+}
